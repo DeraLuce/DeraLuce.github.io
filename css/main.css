@@ -3,13 +3,13 @@ body {
     width: 50%;
 }
 
-.nav {
+.nav_list {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
     list-style: none;
     font-weight: bold;
 }
-.nav_item {
+.nav_list-item {
     display: inline;
     margin-right: 20px;
 }
@@ -17,6 +17,7 @@ body {
    text-decoration: none;
    color: #999;
 }
+/*
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
@@ -26,7 +27,7 @@ nav ul, footer ul {
 nav ul li, footer ul li {
     display: inline;
     margin-right: 20px;
-}
+} */
 a {
     text-decoration: none;
     color: #999;
@@ -53,6 +54,14 @@ footer {
     font-size: .8em;
 }
 
+.post_list {
+    margin: 20px auto 40px; 
+    font-size: 1.5em;
+}
+.post_list-item {
+      list-style: none;  
+}
+/*
 ul.posts { 
     margin: 20px auto 40px; 
     font-size: 1.5em;
@@ -60,5 +69,5 @@ ul.posts {
 
 ul.posts li {
     list-style: none;
-}
+} */
 .unital { font-style: normal; }
