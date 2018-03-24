@@ -13,7 +13,7 @@ body {
     display: inline;
     margin-right: 20px;
 }
-.nav_item-link {
+/*.link {
    text-decoration: none;
    color: #999;
 }
@@ -27,11 +27,11 @@ nav ul, footer ul {
 nav ul li, footer ul li {
     display: inline;
     margin-right: 20px;
-} 
+} */
 a {
     text-decoration: none;
     color: #999;
-} */
+} 
 a:hover {
     text-decoration: underline;
 }
