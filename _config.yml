@@ -1,3 +1,4 @@
 name: Dera Luce
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
+baseurl: "/deraluce.github.io"
