@@ -17,14 +17,12 @@ body {
 }
 .link-nav {
     text-decoration: none;
-
-    link-nav:hover { text-decoration: underline;  }
+}
+.link-nav:hover {
+    text-decoration: underline;
 }
 .link-body {
     text-decoration: underline;    
-}
-.link-nav a:hover {
-    text-decoration: underline;
 }
 h1 {
     font-size: 3em;
